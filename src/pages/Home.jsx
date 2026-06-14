@@ -5,7 +5,7 @@ import HeroSection from "../sections/HeroSection";
 import StatsSection from "../sections/StatsSection";
 
 import FloatingCall from "../components/common/FloatingCall";
-import FloatingWhatsApp from "../components/common/FloatingWhatsApp";
+import FloatingWhatsApp from "../components/common/FloatingWhatsApp.jsx";
 import ScrollToTop from "../components/common/ScrollToTop";
 
 import AboutSection from "../sections/AboutSection";
