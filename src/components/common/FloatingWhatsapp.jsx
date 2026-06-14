@@ -34,6 +34,7 @@ const FloatingWhatsApp = () => {
       }}
     >
       <FaWhatsapp size={28} />
+      {/*  */}
     </button>
   );
 };
